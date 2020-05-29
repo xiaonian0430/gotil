@@ -13,7 +13,7 @@ import (
 
 	"path/filepath"
 
-	"gotil/cryptil"
+	"github.com/xiaonian0430/gotil/cryptil"
 
 	"github.com/astaxie/beego/httplib"
 )

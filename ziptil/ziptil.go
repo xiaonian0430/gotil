@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"gotil/filetil"
+	"github.com/xiaonian0430/gotil/filetil"
 )
 
 //解压zip文件

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"gotil/util"
+	"github.com/xiaonian0430/gotil/util"
 )
 
 func main() {
